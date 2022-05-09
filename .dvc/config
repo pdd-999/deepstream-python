@@ -1,0 +1,4 @@
+[core]
+    remote = pdd-utils-dvc
+['remote "pdd-utils-dvc"']
+    url = gdrive://18Uw5zi6j4ZU6yozwAjM77VAq4BPzORkN
